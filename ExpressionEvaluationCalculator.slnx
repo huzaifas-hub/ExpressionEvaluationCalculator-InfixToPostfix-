@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="ExpressionTokenizer.cs" />
+    <File Path="ShuntingYardAlgorithim.cs" />
+    <File Path="Stack.cs" />
+  </Folder>
+  <Project Path="ExpressionEvaluationCalculator.csproj" />
+</Solution>
